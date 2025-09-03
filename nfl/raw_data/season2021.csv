@@ -1,7 +1,4 @@
---- When using SR data, please cite us and provide a link and/or a mention.
 
-
- 
 Week,Day,Date,Time,Winner/tie,,Loser/tie,,Pts,Pts,YdsW,TOW,YdsL,TOL
 1,Thu,2021-09-09,8:20PM,Tampa Bay Buccaneers,,Dallas Cowboys,boxscore,31,29,431,4,451,1
 1,Sun,2021-09-12,1:00PM,Philadelphia Eagles,@,Atlanta Falcons,boxscore,32,6,434,0,260,0
@@ -275,20 +272,3 @@ Week,Day,Date,Time,Winner/tie,,Loser/tie,,Pts,Pts,YdsW,TOW,YdsL,TOL
 18,Sun,2022-01-09,4:25PM,Seattle Seahawks,@,Arizona Cardinals,boxscore,38,30,431,2,305,1
 18,Sun,2022-01-09,4:25PM,San Francisco 49ers,@,Los Angeles Rams,boxscore,27,24,449,2,265,2
 18,Sun,2022-01-09,8:25PM,Las Vegas Raiders,,Los Angeles Chargers,boxscore,35,32,346,0,440,2
-,,Playoffs,,,,,,,,,,,
-WildCard,Sat,2022-01-15,4:30PM,Cincinnati Bengals,,Las Vegas Raiders,boxscore,26,19,308,0,385,2
-WildCard,Sat,2022-01-15,8:15PM,Buffalo Bills,,New England Patriots,boxscore,47,17,482,0,305,2
-WildCard,Sun,2022-01-16,1:00PM,Tampa Bay Buccaneers,,Philadelphia Eagles,boxscore,31,15,349,0,339,3
-WildCard,Sun,2022-01-16,4:40PM,San Francisco 49ers,@,Dallas Cowboys,boxscore,23,17,341,1,307,1
-WildCard,Sun,2022-01-16,8:15PM,Kansas City Chiefs,,Pittsburgh Steelers,boxscore,42,21,478,2,257,1
-WildCard,Mon,2022-01-17,8:15PM,Los Angeles Rams,,Arizona Cardinals,boxscore,34,11,375,0,183,2
-Division,Sat,2022-01-22,4:30PM,Cincinnati Bengals,@,Tennessee Titans,boxscore,19,16,345,1,353,3
-Division,Sat,2022-01-22,8:15PM,San Francisco 49ers,@,Green Bay Packers,boxscore,13,10,212,1,263,1
-Division,Sun,2022-01-23,3:00PM,Los Angeles Rams,@,Tampa Bay Buccaneers,boxscore,30,27,428,4,359,2
-Division,Sun,2022-01-23,6:30PM,Kansas City Chiefs,,Buffalo Bills,boxscore,42,36,552,0,422,0
-ConfChamp,Sun,2022-01-30,3:00PM,Cincinnati Bengals,@,Kansas City Chiefs,boxscore,27,24,359,1,375,2
-ConfChamp,Sun,2022-01-30,6:30PM,Los Angeles Rams,,San Francisco 49ers,boxscore,20,17,396,1,282,1
-SuperBowl,Sun,2022-02-13,6:30PM,Los Angeles Rams,N,Cincinnati Bengals,boxscore,23,20,313,2,305,0
-
-
-Provided by <a href="https://www.sports-reference.com/sharing.html?utm_source=direct&utm_medium=Share&utm_campaign=ShareTool">Pro-Football-Reference.com</a>: <a href="https://www.pro-football-reference.com/years/2021/games.htm?sr&utm_source=direct&utm_medium=Share&utm_campaign=ShareTool#games">View Original Table</a><br>Generated 8/22/2025.

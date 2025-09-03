@@ -1,7 +1,4 @@
---- When using SR data, please cite us and provide a link and/or a mention.
 
-
- 
 Week,Day,Date,Time,Winner/tie,,Loser/tie,,Pts,Pts,YdsW,TOW,YdsL,TOL
 1,Thu,2020-09-10,8:20PM,Kansas City Chiefs,,Houston Texans,boxscore,34,20,369,0,360,1
 1,Sun,2020-09-13,1:00PM,Seattle Seahawks,@,Atlanta Falcons,boxscore,38,25,383,0,506,2
@@ -259,20 +256,3 @@ Week,Day,Date,Time,Winner/tie,,Loser/tie,,Pts,Pts,YdsW,TOW,YdsL,TOL
 17,Sun,2021-01-03,4:25PM,Los Angeles Chargers,@,Kansas City Chiefs,boxscore,38,21,416,0,268,1
 17,Sun,2021-01-03,4:25PM,Seattle Seahawks,@,San Francisco 49ers,boxscore,26,23,280,0,328,1
 17,Sun,2021-01-03,8:20PM,Washington Football Team,@,Philadelphia Eagles,boxscore,20,14,248,2,216,3
-,,Playoffs,,,,,,,,,,,
-WildCard,Sat,2021-01-09,1:05PM,Buffalo Bills,,Indianapolis Colts,boxscore,27,24,397,0,472,0
-WildCard,Sat,2021-01-09,4:40PM,Los Angeles Rams,@,Seattle Seahawks,boxscore,30,20,333,0,278,2
-WildCard,Sat,2021-01-09,8:15PM,Tampa Bay Buccaneers,@,Washington Football Team,boxscore,31,23,507,1,375,1
-WildCard,Sun,2021-01-10,1:05PM,Baltimore Ravens,@,Tennessee Titans,boxscore,20,13,401,1,209,1
-WildCard,Sun,2021-01-10,4:40PM,New Orleans Saints,,Chicago Bears,boxscore,21,9,385,1,239,0
-WildCard,Sun,2021-01-10,8:15PM,Cleveland Browns,@,Pittsburgh Steelers,boxscore,48,37,390,0,553,5
-Division,Sat,2021-01-16,4:35PM,Green Bay Packers,,Los Angeles Rams,boxscore,32,18,484,0,244,0
-Division,Sat,2021-01-16,8:15PM,Buffalo Bills,,Baltimore Ravens,boxscore,17,3,220,0,340,1
-Division,Sun,2021-01-17,3:05PM,Kansas City Chiefs,,Cleveland Browns,boxscore,22,17,438,1,308,2
-Division,Sun,2021-01-17,6:40PM,Tampa Bay Buccaneers,@,New Orleans Saints,boxscore,30,20,316,0,294,4
-ConfChamp,Sun,2021-01-24,3:05PM,Tampa Bay Buccaneers,@,Green Bay Packers,boxscore,31,26,351,3,381,2
-ConfChamp,Sun,2021-01-24,6:40PM,Kansas City Chiefs,,Buffalo Bills,boxscore,38,24,439,1,363,1
-SuperBowl,Sun,2021-02-07,6:30PM,Tampa Bay Buccaneers,N,Kansas City Chiefs,boxscore,31,9,340,0,350,2
-
-
-Provided by <a href="https://www.sports-reference.com/sharing.html?utm_source=direct&utm_medium=Share&utm_campaign=ShareTool">Pro-Football-Reference.com</a>: <a href="https://www.pro-football-reference.com/years/2020/games.htm?sr&utm_source=direct&utm_medium=Share&utm_campaign=ShareTool#games">View Original Table</a><br>Generated 8/22/2025.

@@ -1,7 +1,4 @@
---- When using SR data, please cite us and provide a link and/or a mention.
 
-
- 
 Week,Day,Date,Time,Winner/tie,,Loser/tie,,Pts,Pts,YdsW,TOW,YdsL,TOL
 1,Thu,2022-09-08,8:20PM,Buffalo Bills,@,Los Angeles Rams,boxscore,31,10,413,4,243,3
 1,Sun,2022-09-11,1:00PM,New Orleans Saints,@,Atlanta Falcons,boxscore,27,26,385,1,416,2
@@ -274,20 +271,3 @@ Week,Day,Date,Time,Winner/tie,,Loser/tie,,Pts,Pts,YdsW,TOW,YdsL,TOL
 18,Sun,2023-01-08,4:25PM,Philadelphia Eagles,,New York Giants,boxscore,22,16,342,1,284,0
 18,Sun,2023-01-08,4:25PM,Seattle Seahawks,,Los Angeles Rams,boxscore,19,16,402,2,269,1
 18,Sun,2023-01-08,8:20PM,Detroit Lions,@,Green Bay Packers,boxscore,20,16,323,0,291,2
-,,Playoffs,,,,,,,,,,,
-WildCard,Sat,2023-01-14,4:30PM,San Francisco 49ers,,Seattle Seahawks,boxscore,41,23,505,0,332,2
-WildCard,Sat,2023-01-14,8:15PM,Jacksonville Jaguars,,Los Angeles Chargers,boxscore,31,30,390,5,320,0
-WildCard,Sun,2023-01-15,1:00PM,Buffalo Bills,,Miami Dolphins,boxscore,34,31,423,3,231,2
-WildCard,Sun,2023-01-15,4:30PM,New York Giants,@,Minnesota Vikings,boxscore,31,24,431,0,332,0
-WildCard,Sun,2023-01-15,8:15PM,Cincinnati Bengals,,Baltimore Ravens,boxscore,24,17,234,1,364,2
-WildCard,Mon,2023-01-16,8:15PM,Dallas Cowboys,@,Tampa Bay Buccaneers,boxscore,31,14,425,0,386,1
-Division,Sat,2023-01-21,4:30PM,Kansas City Chiefs,,Jacksonville Jaguars,boxscore,27,20,362,0,349,2
-Division,Sat,2023-01-21,8:15PM,Philadelphia Eagles,,New York Giants,boxscore,38,7,416,0,227,1
-Division,Sun,2023-01-22,3:00PM,Cincinnati Bengals,@,Buffalo Bills,boxscore,27,10,412,0,325,1
-Division,Sun,2023-01-22,6:30PM,San Francisco 49ers,,Dallas Cowboys,boxscore,19,12,312,1,282,2
-ConfChamp,Sun,2023-01-29,3:00PM,Philadelphia Eagles,,San Francisco 49ers,boxscore,31,7,269,0,164,3
-ConfChamp,Sun,2023-01-29,6:30PM,Kansas City Chiefs,,Cincinnati Bengals,boxscore,23,20,357,1,309,2
-SuperBowl,Sun,2023-02-12,6:30PM,Kansas City Chiefs,N,Philadelphia Eagles,boxscore,38,35,340,0,417,1
-
-
-Provided by <a href="https://www.sports-reference.com/sharing.html?utm_source=direct&utm_medium=Share&utm_campaign=ShareTool">Pro-Football-Reference.com</a>: <a href="https://www.pro-football-reference.com/years/2022/games.htm?sr&utm_source=direct&utm_medium=Share&utm_campaign=ShareTool#games">View Original Table</a><br>Generated 8/22/2025.
