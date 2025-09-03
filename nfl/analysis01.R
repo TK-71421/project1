@@ -165,4 +165,13 @@ seasons15_to_24 = bind_rows(
     season2021, season2022, season2023, season2024
 )
 
+seasons15_to_24 = seasons15_to_24 %>% 
+    mutate(
+        home_team_win = case_when(
+            ...6 == '@' ~ 0, 
+            .default = 1 
+        ), 
+        home_team_win = as.integer(home_team_win)
+    )
+
 saveRDS(seasons15_to_24, "nfl/raw_data/season15_to_24.rds") 
